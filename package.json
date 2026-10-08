@@ -1,0 +1,46 @@
+{
+  "name": "opencode-openrouter-websearch",
+  "version": "1.0.0",
+  "description": "OpenCode plugin: web search via the OpenRouter web plugin, with in-TUI settings menu",
+  "type": "module",
+  "license": "MIT",
+  "author": "pichenka007gd",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js",
+    "./tui": "./tui.js"
+  },
+  "files": [
+    "index.js",
+    "tui.js",
+    "settings.mjs",
+    "README.md"
+  ],
+  "keywords": [
+    "opencode",
+    "opencode-plugin",
+    "web-search",
+    "openrouter"
+  ],
+  "scripts": {
+    "settings": "node settings.mjs"
+  },
+  "engines": {
+    "node": ">=20.11"
+  },
+  "peerDependencies": {
+    "@opencode-ai/plugin": ">=1.18.0"
+  },
+  "peerDependenciesMeta": {
+    "@opencode-ai/plugin": {
+      "optional": true
+    }
+  },
+  "repository": {
+    "url": "git+ssh://git@github.com/pichenka007gd/opencode-openrouter-websearch.git"
+  },
+  "homepage": "https://github.com/pichenka007gd/opencode-openrouter-websearch",
+  "bugs": {
+    "url": "https://github.com/pichenka007gd/opencode-openrouter-websearch/issues"
+  }
+}
