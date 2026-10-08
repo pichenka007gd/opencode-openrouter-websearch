@@ -1,5 +1,10 @@
 # opencode-openrouter-websearch
 
+[![npm version](https://img.shields.io/npm/v/opencode-openrouter-websearch)](https://www.npmjs.com/package/opencode-openrouter-websearch)
+[![npm downloads](https://img.shields.io/npm/dm/opencode-openrouter-websearch)](https://www.npmjs.com/package/opencode-openrouter-websearch?activeTab=versions)
+[![npm total downloads](https://img.shields.io/npm/dt/opencode-openrouter-websearch)](https://npmcharts.com/compare/opencode-openrouter-websearch?minimal=true)
+[![license](https://img.shields.io/npm/l/opencode-openrouter-websearch)](./LICENSE)
+
 OpenCode plugin: web search through the [OpenRouter web plugin](https://openrouter.ai/docs/features/web-search) (Exa by default).
 
 ## How it works
@@ -44,6 +49,12 @@ node settings.mjs --stats
 - Registers an `openrouter` provider for OpenCode's built-in `websearch` tool and sets it as the default. All agents get one clean web search tool.
 - Adds a **"Websearch: plugin settings"** entry to the command palette (Ctrl+P): pick the model from the live OpenRouter list, set result/token limits, engine, search prompt, include/exclude domains.
 - Ships a CLI settings script as an alternative to the TUI menu.
+
+## Package stats
+
+- [npm page](https://www.npmjs.com/package/opencode-openrouter-websearch) — versions, dependencies, dependents
+- [Download trends](https://npmcharts.com/compare/opencode-openrouter-websearch?minimal=true) — weekly downloads over time
+- [npmjs stats](https://www.npmjs.com/package/opencode-openrouter-websearch?activeTab=versions) — per-version download counts
 
 ## Install
 
