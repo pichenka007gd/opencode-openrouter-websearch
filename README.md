@@ -3,7 +3,11 @@
 [![npm version](https://img.shields.io/npm/v/opencode-openrouter-websearch)](https://www.npmjs.com/package/opencode-openrouter-websearch)
 [![npm downloads](https://img.shields.io/npm/dm/opencode-openrouter-websearch)](https://www.npmjs.com/package/opencode-openrouter-websearch?activeTab=versions)
 [![npm total downloads](https://img.shields.io/npm/dt/opencode-openrouter-websearch)](https://npmcharts.com/compare/opencode-openrouter-websearch?minimal=true)
+[![node](https://img.shields.io/node/v/opencode-openrouter-websearch)](./package.json)
 [![license](https://img.shields.io/npm/l/opencode-openrouter-websearch)](./LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/pichenka007gd/opencode-openrouter-websearch)](https://github.com/pichenka007gd/opencode-openrouter-websearch/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/pichenka007gd/opencode-openrouter-websearch)](https://github.com/pichenka007gd/opencode-openrouter-websearch/issues)
+[![last commit](https://img.shields.io/github/last-commit/pichenka007gd/opencode-openrouter-websearch)](https://github.com/pichenka007gd/opencode-openrouter-websearch/commits)
 
 OpenCode plugin: web search through the [OpenRouter web plugin](https://openrouter.ai/docs/features/web-search) (Exa by default).
 
